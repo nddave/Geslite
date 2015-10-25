@@ -1,7 +1,7 @@
 Geslite
 =======
 
-![alt tag](http://4.bp.blogspot.com/-IXu-XfxCDzI/Viy6g-zW9kI/AAAAAAAACPs/sFksxDhqSa8/s1600/12178155_10206197164181100_1335809015_n.jpg)
+![alt tag](http://4.bp.blogspot.com/-pbp1BBmr13Q/Vizvh9MEKxI/AAAAAAAACQc/iOdbEWShxi0/s1600/GESLITE.png)
 
 Everyday we command the devices around us to conduct regular tasks. Press the switch to run the fan, or start the bulb. However; imagine how awesome it would be, if we flipped this interaction.
 
