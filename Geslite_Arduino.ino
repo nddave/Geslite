@@ -2,7 +2,7 @@
 ---
 Information
 ---
-Program name - Kinect for faces
+Program name - Arduino for Kinect gestures
 Program version - 1.0
 Description - Main window for the controlling arduino components.
 Program credits - Created at HackUMass 2015. Open sourced and free to use.
